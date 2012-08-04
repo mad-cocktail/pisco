@@ -1,0 +1,7 @@
+{application, pisco,
+ [
+  {description, ""},
+  {vsn, git},
+  {registered, []},
+  {env, []}
+ ]}.
