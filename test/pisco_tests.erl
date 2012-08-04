@@ -5,8 +5,8 @@
 
 
 % v this number means how mush chars (in bytes!) to skip before the real text.
-%%1> mark1
-%%  ^ This char will be skipped.
+%1> mark1
+%  ^ This char will be skipped.
 -unescaped(ex1).
 
 %%0>mark2
